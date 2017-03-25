@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489918560 source:d:\glfwworkstation\projects\bresenhamalg\main.c
+	<GLFW/glfw3.h>
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
